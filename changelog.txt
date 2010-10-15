@@ -1,0 +1,12 @@
+[B]1.0.5[/B]
+
+- Fixes for almost everything, due to changed structure to Rotten Tomatoes website.
+- Moved Development to Github
+
+[B]1.0.1-4[/B]
+
+- Before Github
+
+[B]1.0.0[/B]
+
+- Initial Release
